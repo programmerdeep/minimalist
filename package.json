@@ -1,0 +1,21 @@
+{
+    "name": "minimalist",
+    "displayName": "Minimalist",
+    "description": "A minimalistic theme for vs code editor",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimalist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimalist-color-theme.json"
+            }
+        ]
+    }
+}
