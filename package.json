@@ -2,7 +2,10 @@
     "name": "minimalist",
     "displayName": "Minimalist",
     "description": "A minimalistic theme for vs code editor",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "publisher": "SatadeepDasgupta",
+    "icon": "logo.png",
+    "repository": "https://github.com/programmerdeep/minimalist",
     "engines": {
         "vscode": "^1.57.0"
     },
